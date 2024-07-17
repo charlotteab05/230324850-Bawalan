@@ -1,0 +1,26 @@
+uncaughtException Error: /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-companies/dict/companies.txt does not exist.
+    at /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:99816
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+uncaughtException Error: /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-filetypes/filetypes.txt.gz does not exist.
+    at /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:99816
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+uncaughtException Error: /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-public-licenses/public-licenses.txt.gz does not exist.
+    at /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:99816
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)
+    at runNextTicks (node:internal/process/task_queues:64:3)
+    at process.processImmediate (node:internal/timers:449:9)
+uncaughtException Error: /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/softwareTerms.txt does not exist.
+    at /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:99816
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+uncaughtException Error: /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-software-terms/dict/computing-acronyms.txt does not exist.
+    at /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:99816
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+uncaughtException Error: /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-aws/dict/aws.txt does not exist.
+    at /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:99816
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+uncaughtException Error: /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-cryptocurrencies/dict/cryptocurrencies.txt does not exist.
+    at /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:99816
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)
+uncaughtException Error: /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/node_modules/@cspell/dict-en_us/en_US.trie.gz does not exist.
+    at /home/charlotteab/.vscode-server/extensions/streetsidesoftware.code-spell-checker-3.0.1/packages/_server/dist/main.cjs:99:99816
+    at process.processTicksAndRejections (node:internal/process/task_queues:77:11)

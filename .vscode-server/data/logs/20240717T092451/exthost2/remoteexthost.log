@@ -1,0 +1,5 @@
+2024-07-17 09:25:33.564 [info] Extension host with pid 4131 started
+2024-07-17 09:25:33.761 [error] Error: ENOENT: no such file or directory, access '/home/charlotteab/.vscode-server/extensions/formulahendry.code-runner-0.12.2'
+2024-07-17 09:25:34.653 [error] Error: ENOENT: no such file or directory, access '/home/charlotteab/.vscode-server/extensions/formulahendry.code-runner-0.12.2'
+2024-07-17 14:17:35.328 [info] Extension host terminating: received terminate message from renderer
+2024-07-17 14:17:35.359 [info] Extension host with pid 4131 exiting with code 0

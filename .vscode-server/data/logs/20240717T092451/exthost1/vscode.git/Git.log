@@ -1,0 +1,5 @@
+2024-07-17 09:25:05.649 [info] Log level: Info
+2024-07-17 09:25:05.650 [info] Validating found git in: "git"
+2024-07-17 09:25:05.650 [info] Using git "2.34.1" from "git"
+2024-07-17 09:25:05.650 [warning] [swsf] Unable to read folder '/home/charlotteab/.git': Error: ENOENT: no such file or directory, scandir '/home/charlotteab/.git'
+2024-07-17 09:25:05.650 [warning] Failed to get repository realpath for: "/home/charlotteab/.git". Error: ENOENT: no such file or directory, realpath '/home/charlotteab/.git'
