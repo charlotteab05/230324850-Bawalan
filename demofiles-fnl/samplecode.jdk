@@ -1,0 +1,16 @@
+// Sample Java program: SampleCode.java
+
+public class SampleCode {
+    public static void main(String[] args) {
+        // Print a greeting message
+        System.out.println("Hello, World!");
+
+        // Perform a simple arithmetic operation
+        int a = 5;
+        int b = 3;
+        int sum = a + b;
+
+        // Print the result
+        System.out.println("The sum of " + a + " and " + b + " is " + sum);
+    }
+}
