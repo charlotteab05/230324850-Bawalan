@@ -1,0 +1,158 @@
+    1  git status
+    2  git
+    3  git clone https://github.com/charlotteab05/230324850-Bawalan
+    4  git help git
+    5  git help
+    6  git statud
+    7  git status
+    8  gh
+    9  gh auth login
+   10  git status
+   11  pkg update
+   12  pkg upgrade
+   13  ver
+   14  version
+   15  git status
+   16  gh
+   17  gh login
+   18  gh ssh
+   19  gh ssh-key
+   20  ls
+   21  cd 230324850-Bawalan
+   22  git status
+   23  git clone https://github.com/charlotteab05/230324850-Bawalan
+   24  exit
+   25  pkg install php
+   26  php--version
+   27  php --version
+   28  gh --version
+   29  gh upgrade
+   30  pkg install openssh
+   31  openssh --version
+   32  gh --version
+   33  "sudo" apt update
+   34  pkg install tsu
+   35  tsu upgrade
+   36  proo-dostro login tsu
+   37  proo-dostro login ubuntu
+   38  proot-dostro login tsu
+   39  proot-dostro login ubuntu
+   40  proot-distro login tsu
+   41  proot-distro login ubuntu
+   42  proot-distro --version
+   43  install python3
+   44  pkg install python 3
+   45  pkg install python3
+   46  python3 --version
+   47  python3 upgrade
+   48  pkg install apache2
+   49  apache1 --v
+   50  apache1 -v
+   51  apache3 -v
+   52  apache3 --version
+   53  apache3 upgrade
+   54  apache2 upgrade
+   55  apache2 --version
+   56  apache+1 -v
+   57  apachect1 -v
+   58  apachect1 --version
+   59  apachectl --version
+   60  apachectl upgrade
+   61  python3 upgrade
+   62  install neofetcj
+   63  pkg install neofetcj
+   64  pkg install neofetch
+   65  neofetch upgrade
+   66  cd 230324850-Bawalan
+   67  git shortlog
+   68  git clone https://github.com/charlotteab05/230324850-Bawalan
+   69  exit
+   70  pkg install proot-distro ubuntu
+   71  ubuntu upgrade
+   72  pkg ubuntu upgrade
+   73  diskusage
+   74  apt update
+   75  apt upgrade
+   76  termux-setup-storage
+   77  ls
+   78  cd storage
+   79  ls
+   80  downloads
+   81  cd downloads
+   82  ls
+   83  exit
+   84  git
+   85  git status
+   86  cd 230324850-Bawalan
+   87  git status
+   88  exit
+   89  git
+   90  git shortlog
+   91  mkdir -p linux_practice
+   92  ls
+   93  cd linux_practice
+   94  touch notes.txt
+   95  ls
+   96  cat notes.txt
+   97  echo "Hello, Linux" >notes.txt
+   98  ls
+   99  cat notes.txt
+  100  echo "This is a practical exam" >>notes.txt
+  101  cat notes.txt
+  102  head notes.txt
+  103  tail notes.txt
+  104  mkdir -p /subdir
+  105  mkdir -p subdir
+  106  mv notes.txt ~/subdir
+  107  ls
+  108  cd subdir
+  109  ls
+  110  cd ./.
+  111  cd ../..
+  112  cd linux_practice
+  113  mv subdir practice_subdir
+  114  ls
+  115  cd practice_subdir
+  116  ls
+  117  cd ../..
+  118  cd linux_practice
+  119  ls
+  120  cd practice_subdir
+  121  cat practice_subdir
+  122  cd ../..
+  123  cd linux_practice
+  124  cat practice_subdir
+  125  cat notes.txt
+  126  cp notes.txt
+  127  cp notes.txt copy-linux_practice
+  128  touch notes.txt
+  129  ls
+  130  date
+  131  disk usage
+  132  w
+  133  uptime
+  134  usage
+  135  check storage
+  136  df
+  137  cd ./.
+  138  gh -v
+  139  cd ../..
+  140  gh --version
+  141  nano ~/.bash_history
+  142  cd 230324850-Bawalan
+  143  cd linux_practice
+  144  nano ~/.bash_history
+  145  df -T
+  146  df
+  147  cd ../..
+  148  git --version
+  149  openssh -v
+  150  open ssh --version
+  151  ssh -v
+  152  ls
+  153  230324850-Bawalan
+  154  cd 230324850-Bawalan
+  155  ls
+  156  cd linux_practice
+  157  git checkout -b finalexam
+  158  history > exam_log.txt
