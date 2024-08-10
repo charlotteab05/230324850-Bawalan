@@ -156,3 +156,8 @@
   156  cd linux_practice
   157  git checkout -b finalexam
   158  history > exam_log.txt
+  159  git add . exam_log.txt
+  160  git commit -m "Added exam_log.txt with command history"
+  161  git push origin finalexam
+  162  git checkout -b finalexam
+  163  history > exam_log.txt
