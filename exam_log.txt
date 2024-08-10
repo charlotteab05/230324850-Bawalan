@@ -181,3 +181,8 @@
   181  git checkout -b finalexam
   182  git log -p --since='2024-08-08' --until='2024-08-10' --date=short -- exam_log.txt --reverse -n 1
   183  history > exam_log.txt
+  184  git add . exam_log.txt
+  185  git commit -m "Added exam_log.txt with command history"
+  186  git log -p --since='2024-08-08' --until='2024-08-10' --date=short -- exam_log.txt --reverse -n 1
+  187  ls
+  188  history > exam_log.txt
